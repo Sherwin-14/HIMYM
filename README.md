@@ -1,4 +1,4 @@
-# Analyzing the HIMYM Dataset
+# Analyzing HIMYM 
 
 ## Overview
 This project aims to analyze the **How I Met Your Mother (HIMYM)** dataset using **Excel** and **Power BI**. The goal is to understand patterns in the sitcom’s episodes and gain insights into the show's structure and content.
